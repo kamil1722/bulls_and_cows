@@ -1,12 +1,5 @@
 ﻿#include <iostream>
 #include <cmath>
-#include <string>
-#include <conio.h>
-#include <vector>
-#include <windows.h>
-#include <ctype.h>
-#include <sstream>
-#include <cstdlib>
 
 using namespace std;
 bool situation3(int user1, int user2) {  //Situation 3 - Проверям корректность введенного числ, так чтобы не было одинаковых цифр в числе
